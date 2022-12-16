@@ -455,6 +455,10 @@ export const locales = [
     name: "Afrikaans",
   },
   {
+    key: "am",
+    name: "Amharic",
+  },
+  {
     key: "ar",
     name: "Arabic",
   },
